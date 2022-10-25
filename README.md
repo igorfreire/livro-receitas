@@ -1,4 +1,7 @@
-##Livro de Receitas :cooking
+# Livro de Receitas :man_cook:
 
+:wave:
 
-_ * Strognoff *
+- Strognoff de frango
+
+- Pavê
